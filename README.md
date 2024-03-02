@@ -34,13 +34,12 @@ Follow the steps below to use the Attention Assist System:
    ```
    This command will execute the `drowsiness.py` script.
 
-   
-
-https://github.com/Arwindhraj/AI-Attention-assist-system-using-MediaPipe/assets/86314465/d626b759-4830-44e5-8f5e-8d65c126e668
+## Output
 
 
+https://github.com/Arwindhraj/AI-Attention-assist-system-using-MediaPipe/assets/86314465/876e686a-0300-4e4a-ae0b-1822222bd4fb
 
-##
+
 
 [open an issue](https://github.com/Arwindhraj/AI-Attention-assist-system-using-MediaPipe/issues) on the GitHub repository for bug reports or feature requests.
 
